@@ -208,7 +208,7 @@ class Contact extends Component {
                                     model=".message" 
                                     id="message" 
                                     name="message"
-                                    rows="12"
+                                    rows="6"
                                     className="form-control" 
                                     />
                                 </Col>
